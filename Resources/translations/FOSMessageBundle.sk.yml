@@ -4,7 +4,7 @@ sent:           Odoslané správy
 deleted:        Vymazané správy
 send_new:       Napísať správu
 search:         Hľadať
-threads_found:  "%num% Konverzácia nájdená s | %num% Konverzácií nájdených s"
+threads_found:  "%count% Konverzácia nájdená s | %count% Konverzácií nájdených s"
 
 message_info:   "Od %sender%, %date%"
 reply:          Odpovedať
