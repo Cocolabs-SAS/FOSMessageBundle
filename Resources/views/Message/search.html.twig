@@ -4,9 +4,7 @@
 
 <h2>{% trans from 'FOSMessageBundle' %}search{% endtrans %}</h2>
 
-<p>{% transchoice threads|length with {'%num%': threads|length } from 'FOSMessageBundle' %}
-    threads_found
-{% endtranschoice %}</p>
+<p>{{ 'threads_found'|trans({'%count%': threads|length}, 'FOSMessageBundle') }}</p>
 
 {% include '@FOSMessage/Message/threads_list.html.twig' with {'threads': threads} %}
 

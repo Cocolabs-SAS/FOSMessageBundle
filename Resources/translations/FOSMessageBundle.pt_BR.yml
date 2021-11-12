@@ -1,10 +1,10 @@
 messenger:      Mensagens
-inbox:          Caixa de entrada 
+inbox:          Caixa de entrada
 sent:           Envio
 deleted:        Apagado
 send_new:       Enviar uma nova mensagem
 search:         Buscar
-threads_found:  "%num% tópico encontrado | %num% tópicos encontrados"
+threads_found:  "%count% tópico encontrado | %count% tópicos encontrados"
 
 message_info:   Por %sender%, em %date%
 reply:          Responder

@@ -4,7 +4,7 @@ sent:           Poslano
 deleted:        Izbrisano
 send_new:       Pošlji novo sporočilo
 search:         Iskanje
-threads_found:  "%num% najden pogovor | %num% najdena pogovora | %num% najdeni pogovori | %num% najdenih pogovorov"
+threads_found:  "%count% najden pogovor | %count% najdena pogovora | %count% najdeni pogovori | %count% najdenih pogovorov"
 
 message_info:   "Od %sender%, %date%"
 reply:          Odgovori
